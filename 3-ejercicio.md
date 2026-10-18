@@ -33,7 +33,7 @@ docker run -d --name wordpress-wp --network net-wp -p 9500:80 -v C:\Users\analu\
 ```
 
 ### Personalizar la apariencia de wordpress y agregar una entrada
-![WordPress personalizado](wordpress.png)
+
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
 
